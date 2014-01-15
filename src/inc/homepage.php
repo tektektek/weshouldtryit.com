@@ -1,11 +1,10 @@
-
       
 
       <!-- Jumbotron -->
       <div class="jumbotron">
-        <h1>Expore your partner!</h1>
+        <h1>Explore your partner!</h1>
         <p class="lead">
-         "We Should Try It" is an online sex questionnaire for couples. Once you and your partner answer all the questions about various sexual fantasies, we display only sex fantasies <strong>you both into</strong>.
+         "We Should Try It" is an online sex questionnaire for couples. Once you and your partner answer all the questions about various sexual fantasies, we display only sex fantasies that <strong>you are both into</strong>.
          
         
         </p>
@@ -28,13 +27,13 @@
       <div class="row">
         <div class="col-lg-4">
           <h2>Fully anonymous.</h2>          
-          <p>You don't have to supply any information about yourself or your partner. With fully encrypted (SSL) connection your privacy is guaranteed.
+          <p>You don't have to supply any information about yourself or your partner. With a fully encrypted (SSL) connection, your privacy is guaranteed.
           
           </p>          
         </div>
         <div class="col-lg-4">
           <h2>No registration required.</h2>
-          <p>No registration is required, simply click "Get started" button to begin. Your partner can use same or any other computer.
+          <p>No registration is required, simply click the "Get started" button to begin. Your partner can use the same or any other computer.
           
            </p>
        </div>
